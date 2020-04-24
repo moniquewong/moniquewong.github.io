@@ -24,8 +24,7 @@ github_username:  moniquewong
 
 # Build settings
 markdown: kramdown
-remote_theme: artemsheludko/flexible-jekyll
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
