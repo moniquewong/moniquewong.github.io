@@ -9,4 +9,4 @@ I am a former management consultant who worked at McKinsey and Company based out
 
 More about me can be found [here](https://moniquewong.github.io/about/).
 
-![photo](/assets/photo2.jpg)
+![photo](/assets/photo2.JPG)
