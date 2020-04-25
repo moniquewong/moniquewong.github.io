@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Is predicting better predicting fairly? 
+title: Is predicting better predicting fairly?
+categories: ai-ml-bias
+author: Monique Wong
 
 ---
 ### Describing Discriminatory Bias in Machine Learning
-Author: Monique Wong
 
 Most of us have an idea of what discriminatory bias means. It’s when characteristics such as gender, age, race, religious beliefs or sexual orientation changes the way we make decisions about a person.
 
