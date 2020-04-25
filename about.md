@@ -7,7 +7,6 @@ permalink: /about/
 I am a former management consultant who worked at McKinsey and Company based out of Vancouver, Canada. My most recent life adventure is completing the [Masters of Data Science at the University of British Columbia](https://masterdatascience.ubc.ca). 
 
 ![photo](/assets/photo.jpg)
-![photo](/assets/photo2.jpg)
 
 I also identify as:
 
