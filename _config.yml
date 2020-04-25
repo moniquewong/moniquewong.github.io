@@ -29,6 +29,12 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  
+# Pages to show on landing
+header_pages:
+  - about.md
+  - themes.md
+  - portfolio.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
