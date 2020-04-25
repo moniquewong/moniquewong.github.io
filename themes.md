@@ -19,9 +19,11 @@ Topics I have some experience with and/or have continuing interest:
 - Supply and demand planning
 - Entrepreneurship
 - Impact reporting
+- Data literate organizations
+- Business model design
 
 ## Society
-I believe that business is given a social license to operate by society and that business should serve the goals of society.
+I believe that business is given a social license to operate by society and that business should serve the goals of society. 
 
 Topics I have some experience with and/or have continuing interest:
 - Social enterprise
@@ -33,5 +35,21 @@ Topics I have some experience with and/or have continuing interest:
 ## Leadership
 ...
 
+Topics I have some experience with and/or have continuing interest:
+- Decision making under uncertainty
+- Spirituality and leadership
+- Principles and values
+- Creativity
+- Communication
+- Diversity and unconscious biases
+
 ## Data Science
 ...
+
+Topics I have some experience with and/or have continuing interest:
+- Discriminatory bias perpetuated by AI / ML algorithms
+- Experimental design in business
+- Purpose-driven data visualization
+- AI / ML for non-tech native companies
+- AI / ML explainability
+- Data science workflows as a part of business processes
