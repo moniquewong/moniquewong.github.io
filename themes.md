@@ -17,11 +17,21 @@ Topics I have some experience with and/or have continuing interest:
 - Cash management
 - Pricing
 - Supply and demand planning
+- Entrepreneurship
+- Impact reporting
 
 ## Society
+I believe that business is given a social license to operate by society and that business should serve the goals of society.
 
-
+Topics I have some experience with and/or have continuing interest:
+- Social enterprise
+- Food security
+- Environmental sustainability
+- Agriculture
+- Social policy
 
 ## Leadership
+...
 
 ## Data Science
+...
