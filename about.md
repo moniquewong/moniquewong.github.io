@@ -8,7 +8,7 @@ I am a former management consultant who worked at McKinsey and Company based out
 
 ![photo](/assets/photo.jpg)
 
-I also identify as:
+## I also consider myself to be:
 
 **A nerd**: I am fascinated by decision making and in my career, have seen good and poor examples of it. I believe that strong leadership and values are a part of the "good" recipe. I also believe that we, as humans, are not fully leveraging data and technology to inform our decision making. Right now, I'm diving deep into the world of data-informed decision-making by pursuing a Masters of Data Science.
 
