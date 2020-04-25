@@ -4,11 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-I am a former management consultant who worked at McKinsey and Company based out of Vancouver, Canada. My most recent life adventure is completing the Masters of Data Science at the University of British Columbia. 
+I am a former management consultant who worked at McKinsey and Company based out of Vancouver, Canada. My most recent life adventure is completing the [Masters of Data Science at the University of British Columbia](https://masterdatascience.ubc.ca). 
 
 ![photo](/assets/photo.jpg)
 
-I also identify with being... 
+I also identify as:
 
 **A nerd**: I am fascinated by decision making and in my career, have seen good and poor examples of it. I believe that strong leadership and values are a part of the "good" recipe. I also believe that we, as humans, are not fully leveraging data and technology to inform our decision making. Right now, I'm diving deep into the world of data-informed decision-making by pursuing a Masters of Data Science.
 
