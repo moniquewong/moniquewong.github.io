@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-# About me
 I am a former management consultant who worked at McKinsey and Company based out of Vancouver, Canada. My most recent life adventure is completing the Masters of Data Science at the University of British Columbia. 
 
 ![photo](/assets/photo.jpg)
