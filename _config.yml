@@ -23,6 +23,13 @@ show_exerpts: false
 twitter_username: monique_wong
 github_username:  moniquewong
 
+minima:
+  social_links:
+    github: moniquewong
+    linkedin: wongmonique
+    twitter: monique_wong
+    
+
 # Build settings
 markdown: kramdown
 theme: minima
