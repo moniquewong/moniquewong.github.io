@@ -21,16 +21,20 @@ Purple Rectangles live in relative comfort. They live in beautiful homes nested 
 Orange Circles live on the outskirts of Zuon. These neighborhoods are not as friendly. Orange Circle children grow up afraid, untrusting and are unsure of how they fit into society. Some Orange Circle children learn to steal to provide for food and shelter. Often, they don’t finish high school. Many fall into a career of crime.
 
 <img src="../_images/zuon-1.png" width="300" height="300">
+![zuon-1](/assets/zuon-1.png)
 
 The mayor of Zuon believes that safe communities are the key to a higher quality of life. He begins to police the outskirts of Zuon more heavily. Children are arrested for stealing to deter early criminal tendencies. Not seeing the results, he hires a team of data scientists to predict the likelihood that a convicted criminal will re-offend. This way, he thought, he can do a better job of keeping potentially violent lawbreakers off the streets.
 
 The data scientists work away and come up with a solution. The solution takes into account a dizzying number of factors from the age of the convicted person’s first crime to the criminal history of the person’s parents to make the prediction. This tool is then used to help Zuon judges make decisions like length of jail time.
 
 <img src="../_images/zuon-2.png" width="300" height="300">
+![zuon-2](/assets/zuon-2.png)
+
 
 Over the years, more and more Orange Circles end up in prison for ever longer periods of time. The system is objective (it’s based on math and data!) and is well-intended (who doesn’t want more criminals off the streets?). What went wrong?
 
 <img src="../_images/zuon-3.png" width="300" height="300">
+![zuon-3](/assets/zuon-3.png)
 
 It turns out that discrimination doesn’t have to be ill-intended. No one in Zuon was discriminating against shape or colour. With machine learning, we accidentally created a predictive model that is discriminatory. The model resulted in very different outcomes for Purple Rectangles compared to Orange Circles.
 
