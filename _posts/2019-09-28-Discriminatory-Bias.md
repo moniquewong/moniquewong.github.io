@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is predicting better predicting fairly?
+date:   2019-09-28 16:27:54 -0700
 categories: ai-ml-bias
 author: Monique Wong
 
