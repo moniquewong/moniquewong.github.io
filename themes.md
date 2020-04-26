@@ -9,18 +9,19 @@ I want to write about what I care about. This means curating my strong convictio
 Right now, the topics that interest me deeply relate to business, society, leadership and data science.
 
 ## Business
-This was my first love. I remember choosing business as the first discipline I wanted to hone because of the potential to use business to shape society, ultimately improving it. This has led me to completing a Bachelor of Commerce (Honours) at the University of British Columbia and kicking off my career by working at McKinsey & Company. Four years and some jobs later, I still believe in the potential of business for good but have also witnessed how business can be misused and misunderstood. 
+This was my first love. I remember choosing business as the first playground I wanted to learn in because of the potential to use business to shape society, ultimately improving it. This has led me to completing a Bachelor of Commerce (Honours) at the University of British Columbia and kicking off my career by working at McKinsey & Company. Five years and some jobs later, I still believe in the potential of business for good but have also witnessed how business can be misused and misunderstood. 
 
 Topics I have some experience with and/or have continuing interest:
 - Strategy definition
 - Target setting
+- Business model design
 - Cash management
 - Pricing
 - Supply and demand planning
 - Entrepreneurship
 - Impact reporting
 - Data literate organizations
-- Business model design
+
 
 ## Society
 I believe that business is given a social license to operate by society and that business should benefit society. I also believe that business cannot achieve all that society needs which is where policy and civic engagement come in. 
@@ -29,7 +30,7 @@ Topics I have some experience with and/or have continuing interest:
 - Social enterprise
 - Food security
 - Environmental sustainability
-- Agriculture
+- Agriculture and food systems
 - Social policy
 
 ## Leadership
