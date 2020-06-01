@@ -17,3 +17,5 @@ I am a former management consultant who worked at McKinsey and Company. My most 
 **A yogi**: Level-mindedness is what I strive for and what I've observed from the leaders I most admire. I believe this equanimity is practiced and comes from a calm mind. I believe in the spiritual and physical practice of yoga and try to incorporate these practices through the fabric of my life.
 
 **An immigrant**: I consider myself lucky and privileged. Like other 1.5 generation adult professionals, there is the culture of the professional life and there is the culture of home. As a minority in ethnicity, sexual orientation and even gender in most leadership contexts, I am too consciously aware of the unconscious biases, behaviours and systematic barriers that exist. I aspire to find language to speak truth to my experiences and I aspire to empower others who feel the same way to find their voice. 
+
+You can find my writing on [broader topics published on Medium](https://medium.com/@monique_wong).
